@@ -1,6 +1,6 @@
 ![MasterHead](https://uploads-ssl.webflow.com/604c4b5b0c813200c839212b/617be7b3e05848037f518577_business.gif)
-<h1 align="center">Hi 👋, I'm Ramanuj Ray Choudhury</h1>
-<h3 align="center">A passionate digital transformation consultant</h3>
+<h1 align="left">Hi 👋, I'm Ramanuj Ray Choudhury</h1>
+<h3 align="left">A passionate digital transformation consultant</h3>
 <img align="center" alt="Coding" width="400" src="https://blog2opstree.files.wordpress.com/2021/02/hdadrmia.gif">
 
 - 🔭 I’m currently working on [Algo-trading Strategies](https://github.com/toramanuj5/Algotrading)
