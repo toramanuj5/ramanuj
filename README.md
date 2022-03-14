@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ramanuj Ray Choudhury</h1>
 <h3 align="center">A passionate digital transformation consultant</h3>
 <img align="center" alt="Coding" width="400" src="https://blog2opstree.files.wordpress.com/2021/02/hdadrmia.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toramanuj5&label=Profile%20views&color=0e75b6&style=flat" alt="toramanuj5" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=toramanuj5&label=Profile%20views&color=0e75b6&style=flat" alt="toramanuj5" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toramanuj5" alt="toramanuj5" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toramanuj5" alt="toramanuj5" /></a> </p>
 
 - 🔭 I’m currently working on [Algo-trading Strategies](https://github.com/toramanuj5/Algotrading)
 
