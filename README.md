@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ramanuj-raychoudhury/](https://www.linkedin.com/in/ramanuj-raychoudhury/)
 
-- ⚡ Fun fact **I am interested in Price action based trading, I also like to listen different experiences and share share the same with each other**
+- ⚡ Fun fact **I am interested in Price action based trading, I also like to listen different experiences and share the same with each other**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
